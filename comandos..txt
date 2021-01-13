@@ -1,0 +1,9 @@
+create-react-app themeswitcher --template=typescript
+
+yarn add styled-components
+
+yarn add @types/styled-components -D
+
+yarn add react-switch
+
+yarn add polished
